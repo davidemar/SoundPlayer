@@ -14,6 +14,7 @@
 		F36649891FBB6FDD00D1254E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F36649871FBB6FDD00D1254E /* LaunchScreen.storyboard */; };
 		F36649941FBB6FDD00D1254E /* SoundPlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F36649931FBB6FDD00D1254E /* SoundPlayerTests.swift */; };
 		F366499F1FBB6FDD00D1254E /* SoundPlayerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F366499E1FBB6FDD00D1254E /* SoundPlayerUITests.swift */; };
+		F36649AD1FBB70DB00D1254E /* completed1.aif in Resources */ = {isa = PBXBuildFile; fileRef = F36649AC1FBB70D500D1254E /* completed1.aif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		F366499A1FBB6FDD00D1254E /* SoundPlayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SoundPlayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F366499E1FBB6FDD00D1254E /* SoundPlayerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundPlayerUITests.swift; sourceTree = "<group>"; };
 		F36649A01FBB6FDD00D1254E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F36649AC1FBB70D500D1254E /* completed1.aif */ = {isa = PBXFileReference; lastKnownFileType = file; name = completed1.aif; path = ../../../Downloads/completed1.aif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				F366497E1FBB6FDD00D1254E /* AppDelegate.swift */,
 				F36649801FBB6FDD00D1254E /* ViewController.swift */,
 				F36649821FBB6FDD00D1254E /* Main.storyboard */,
+				F36649AC1FBB70D500D1254E /* completed1.aif */,
 				F36649851FBB6FDD00D1254E /* Assets.xcassets */,
 				F36649871FBB6FDD00D1254E /* LaunchScreen.storyboard */,
 				F366498A1FBB6FDD00D1254E /* Info.plist */,
@@ -234,6 +237,7 @@
 			files = (
 				F36649891FBB6FDD00D1254E /* LaunchScreen.storyboard in Resources */,
 				F36649861FBB6FDD00D1254E /* Assets.xcassets in Resources */,
+				F36649AD1FBB70DB00D1254E /* completed1.aif in Resources */,
 				F36649841FBB6FDD00D1254E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
